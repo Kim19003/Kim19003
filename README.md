@@ -20,6 +20,7 @@ favorites:
   - Portal 2
   - Half-Life 2
   - Guild Wars 2
+  - Counter-Strike series
   - Halo series
   - Dark Souls series
 - sports:
