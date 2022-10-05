@@ -2,7 +2,7 @@
 name: Kim
 gender: Male
 nationality: Finnish
-languages:
+spokenLanguages:
 - name: Finnish
   competencyLevel: Proficient
 - name: English
