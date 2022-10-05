@@ -17,7 +17,6 @@ favorites:
   - JavaScript
   - Ruby
 - videoGames:
-  - 'Counter-Strike: Global Offensive'
   - Portal 2
   - Half-Life 2
   - Guild Wars 2
