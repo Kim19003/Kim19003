@@ -9,25 +9,25 @@ spokenLanguages:
   competencyLevel: Proficient
 - name: Japanese
   competencyLevel: Basic
-favorites:
-- programmingLanguages:
+other:
+- favoriteProgrammingLanguages:
   - C#
   - PHP
   - Python
   - JavaScript
   - Ruby
-- videoGames:
+- favoriteVideoGames:
   - Portal 2
   - Half-Life 2
   - Guild Wars 2
   - Counter-Strike series
   - Halo series
   - Dark Souls series
-- sports:
+- favoriteSports:
   - Mixed martial arts
   - Boxing
   - Football
-- artists:
+- favoriteArtists:
   - Twice
   - Itzy
   - NiziU
