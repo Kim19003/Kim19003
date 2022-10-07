@@ -2,14 +2,15 @@
 name: Kim
 gender: Male
 nationality: Finnish
-spokenLanguages:
+occupation: Student
+languages:
 - name: Finnish
   competencyLevel: Proficient
 - name: English
   competencyLevel: Proficient
 - name: Japanese
   competencyLevel: Basic
-other:
+more:
 - favoriteProgrammingLanguages:
   - C#
   - PHP
