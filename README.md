@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋 I'm Kim
 
-<!--
-**Kim19003/Kim19003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats:
+[![Kim19003's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim19003&show_icons=true&theme=algolia)](https://github.com/Kim19003/github-readme-stats)
+### Languages and Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim19003&layout=compact&theme=algolia)
+### Some of my projects:
+#### [Bimil Engine](https://github.com/Kim19003/bimil-engine)
+<kbd><img src="https://i.imgur.com/9JsMNZ4.png" width="580"></img></kbd>
+#### [Square Head](https://github.com/Kim19003/square-head)
+<kbd><img src="https://i.imgur.com/cA9rq63.png" width="580"></img></kbd>
+#### [Unity Game Console](https://github.com/Kim19003/unity-game-console)
+<kbd><img src="https://i.imgur.com/unPjwxH.png" width="580"></img></kbd>
